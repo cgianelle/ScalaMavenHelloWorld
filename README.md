@@ -79,6 +79,7 @@ JavaFX 2.0 SDK.)
 Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains): : 7
 
 **Choose net.alchim31.maven:scala-archetype-simple version:**
+
 1. 1.4
 2. 1.5
 3. 1.6
