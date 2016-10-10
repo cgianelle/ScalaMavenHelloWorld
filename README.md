@@ -21,6 +21,7 @@ Since I am primarily interested in using the Maven build environment for a Scala
 **Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains): 874: scala**
 
 Choose archetype:
+
 1. remote -> co.cask.cdap:cdap-spark-scala-archetype (-)
 2. remote -> com.bugvm:bugvm-scala-template (-)
 3. remote -> com.github.igor-petruk.archetypes:maven-archetype-scala-executable (Creates executable Scala Project that is ready to run with 'java -jar')
